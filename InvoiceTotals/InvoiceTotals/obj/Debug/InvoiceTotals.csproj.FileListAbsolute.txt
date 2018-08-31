@@ -1,0 +1,10 @@
+C:\Users\Hector.Lopez\source\repos\InvoiceTotals\InvoiceTotals\bin\Debug\InvoiceTotals.exe.config
+C:\Users\Hector.Lopez\source\repos\InvoiceTotals\InvoiceTotals\bin\Debug\InvoiceTotals.exe
+C:\Users\Hector.Lopez\source\repos\InvoiceTotals\InvoiceTotals\bin\Debug\InvoiceTotals.pdb
+C:\Users\Hector.Lopez\source\repos\InvoiceTotals\InvoiceTotals\obj\Debug\InvoiceTotals.csprojAssemblyReference.cache
+C:\Users\Hector.Lopez\source\repos\InvoiceTotals\InvoiceTotals\obj\Debug\InvoiceTotals.Form1.resources
+C:\Users\Hector.Lopez\source\repos\InvoiceTotals\InvoiceTotals\obj\Debug\InvoiceTotals.Properties.Resources.resources
+C:\Users\Hector.Lopez\source\repos\InvoiceTotals\InvoiceTotals\obj\Debug\InvoiceTotals.csproj.GenerateResource.cache
+C:\Users\Hector.Lopez\source\repos\InvoiceTotals\InvoiceTotals\obj\Debug\InvoiceTotals.csproj.CoreCompileInputs.cache
+C:\Users\Hector.Lopez\source\repos\InvoiceTotals\InvoiceTotals\obj\Debug\InvoiceTotals.exe
+C:\Users\Hector.Lopez\source\repos\InvoiceTotals\InvoiceTotals\obj\Debug\InvoiceTotals.pdb
