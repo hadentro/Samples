@@ -121,6 +121,7 @@
             this.btnCalculate.TabIndex = 2;
             this.btnCalculate.Text = "&Calculate";
             this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
             // btnExit
             // 
@@ -131,8 +132,9 @@
             this.btnExit.TabIndex = 3;
             this.btnExit.Text = "E&xit";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
-            // Form1
+            // frmInvoiceTotal
             // 
             this.AcceptButton = this.btnCalculate;
             this.AccessibleDescription = "";
@@ -151,7 +153,7 @@
             this.Controls.Add(this.lblDiscAmount);
             this.Controls.Add(this.lblDisPercent);
             this.Controls.Add(this.lblSubtotal);
-            this.Name = "Form1";
+            this.Name = "frmInvoiceTotal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Invoice Total";
             this.ResumeLayout(false);
